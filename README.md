@@ -3,4 +3,5 @@
 not finish for the moment.
 
 copilot working.
-file clangd for epitech coding style finish soon.
+
+some plug have to be added, a config clangd for epitech coding style will be implemented soon.
