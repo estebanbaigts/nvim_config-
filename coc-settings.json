@@ -1,0 +1,4 @@
+{
+	"coc.preferences.formatOnSaveFiletypes": ["c", "cpp", "h", "hpp"],
+	"clangd.arguments": ["--fallback-style=Epitech"]
+}
